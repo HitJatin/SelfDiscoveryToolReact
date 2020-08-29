@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SelfDiscoverToolReact/static/css/main.3dca93f0.chunk.css",
+    "main.js": "/SelfDiscoverToolReact/static/js/main.9740340e.chunk.js",
+    "main.js.map": "/SelfDiscoverToolReact/static/js/main.9740340e.chunk.js.map",
+    "runtime-main.js": "/SelfDiscoverToolReact/static/js/runtime-main.c2480e83.js",
+    "runtime-main.js.map": "/SelfDiscoverToolReact/static/js/runtime-main.c2480e83.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/SelfDiscoverToolReact/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5dfce511.chunk.js": "/SelfDiscoverToolReact/static/js/2.5dfce511.chunk.js",
+    "static/js/2.5dfce511.chunk.js.map": "/SelfDiscoverToolReact/static/js/2.5dfce511.chunk.js.map",
+    "index.html": "/SelfDiscoverToolReact/index.html",
+    "precache-manifest.fbbf765d2e92409ae917762652fd3437.js": "/SelfDiscoverToolReact/precache-manifest.fbbf765d2e92409ae917762652fd3437.js",
+    "service-worker.js": "/SelfDiscoverToolReact/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/SelfDiscoverToolReact/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.3dca93f0.chunk.css.map": "/SelfDiscoverToolReact/static/css/main.3dca93f0.chunk.css.map",
+    "static/js/2.5dfce511.chunk.js.LICENSE.txt": "/SelfDiscoverToolReact/static/js/2.5dfce511.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2480e83.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5dfce511.chunk.js",
+    "static/css/main.3dca93f0.chunk.css",
+    "static/js/main.9740340e.chunk.js"
+  ]
+}
