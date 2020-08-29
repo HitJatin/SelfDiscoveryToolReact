@@ -1,7 +1,65 @@
 .App {
   text-align: center;
+  height: max-content;
+  max-width: max-content;
+}
+.navbar-brand {
+  display: inline-flex;
+  white-space: normal;
+}
+.dropdown-toggle {
+  margin: 10px;
+  margin-left: 0px;
+  background-color: #0000FF;
+}
+#logo {
+  padding:10px;
+}
+#heading {
+  padding-top: 15px;
+}
+.tableset{
+  padding-top: 150px;
+}
+.dragdrop{
+  padding-top: 150px;
+}
+.drgdrpdiv{
+  width:50%;
+  background-color: #0000FF;
+  margin: auto;
+  margin-bottom: 5px;
+  height:30px;
+  text-align: center;
+  color: white;
 }
 
+body {
+  background-color: hsl(0,0%,80%);
+}
+.test {
+  padding-top: 150px;
+}
+.Footer {
+  padding-top: 150px;
+}
+.itemButton{
+  width:250px;
+  margin:10px;
+  margin-right: 0px;
+  background-color: #0000FF;
+}
+.itemGroup{
+  padding-top: 150px;
+  text-align: center;
+  max-width: 100%;
+}
+.btngrp {
+  width: 350px;
+  background-color: rgb(219, 101, 55);
+  color: white;
+  margin:10px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
